@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace MVC.Data
 {
-    class Program
+   public class User
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
